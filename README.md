@@ -3,7 +3,7 @@
 
 ### Introduction/Business Problem and Data:
 #### Intro: 
-British Columbia (BC) contains some of the most expensive housing markets not only in Canada but all of North America. The buying craze may stem from a high demand along with a scarce supply, low interest rates and a financially strong middle class. Of course there are many possible explanations and I intend on discovering some of these answers from this project.
+British Columbia (BC) contains some of the most expensive housing markets not only in Canada but all of North America. The buying craze may stem from a high demand along with a scarce supply, low interest rates and a financially strong middle class. In addition, cities like Vancouver have become extremely desirable to live in, which in turn increases the demand with limited supply. Due to these reasons, it has become the most expensive city in BC. Of course there are many possible explanations and I intend on discovering some of these answers from this project.
 
 #### Business Problem and Target Audience: 
 The objective of this project is to understand the connection between common venues and housing prices in the lower mainland of BC. This problem may interest investors looking to start new businesses where real estate costs are low but demand for a certain type of venue is high. Additionally, home buyers may want to know what cities have the least expensive housing prices, the different social locations, and options for transit. Likewise, realtors may use this information to help someone buy a house.
